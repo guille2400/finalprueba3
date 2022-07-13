@@ -1,0 +1,7 @@
+organization=guille2400
+projectKey=guille2400_finalprueba3
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30222
+dashboardUrl=https://sonarcloud.io/dashboard?id=guille2400_finalprueba3
+ceTaskId=AYH1BGAfrMGSfNxu8iGA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYH1BGAfrMGSfNxu8iGA
